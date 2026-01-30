@@ -11,3 +11,5 @@ This repository contains Python projects completed as part of the CodeAlpha Inte
 
 ## Author
 Raghul M
+## Status
+✔  task 1 completed successfully.
